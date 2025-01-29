@@ -5,9 +5,10 @@ body {
   background-color: #fffbe3;
 }
 
-a:link {
+a:visited {
   text-decoration: none;
   background-color: transparent;
+  color:black
 }
 
 .text-nav {
@@ -16,9 +17,15 @@ a:link {
 }
 
 .navbar {
-  background-color: #fff5cb;
+  background-color: #BEE6FF;
+}
+.navbar-nav{
+  color:#000000
 }
 
+.navbar-brand {
+  color: #000000;
+}
 .box {
   display: flex;
   align-items: center;
