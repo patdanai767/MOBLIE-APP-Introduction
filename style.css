@@ -1,9 +1,12 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: "Poppins" ,sans-serif;
-  background-color: #fffbe3;
+*{
+  margin:0;
+  padding:0;
 }
+
+.background{
+  background-color: #FFFBE3;
+}
+
 .mt-800{
   margin-top: 100px;
   margin-bottom: 100px;
@@ -33,6 +36,7 @@ a:visited {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: transparent;
 }
 
 .card-text {
@@ -62,4 +66,8 @@ a:visited {
 
 .gap-y {
   row-gap: 32px;
+}
+
+.card {
+  cursor: pointer;
 }
