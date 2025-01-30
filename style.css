@@ -4,7 +4,10 @@ body {
   font-family: Sans-serif;
   background-color: #fffbe3;
 }
-
+.mt-800{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
 a:visited {
   text-decoration: none;
   background-color: transparent;
