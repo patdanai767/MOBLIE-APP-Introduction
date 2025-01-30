@@ -29,3 +29,14 @@ a:link {
   font-size: 24px;
   color: #006FB3;
 }
+.justify-center {
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.gap-y {
+  row-gap: 32px;
+}
