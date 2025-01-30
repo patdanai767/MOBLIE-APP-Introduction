@@ -7,7 +7,12 @@ body {
 .mt-800{
   margin-top: 100px;
   margin-bottom: 100px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:8rem;
 }
+
 a:visited {
   text-decoration: none;
   background-color: transparent;
@@ -50,3 +55,21 @@ a:visited {
 .gap-y {
   row-gap: 32px;
 }
+.carousel-item{
+  display:grid;
+  column-gap: 32px;
+}
+.img1{
+  border-radius: 30px;
+  width: auto;
+  height: 400px;
+  
+}
+.text-item{
+}
+
+
+
+
+
+
