@@ -109,3 +109,12 @@ a:visited {
 .text-item{
   margin-top:2rem;
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%) sepia(100%) saturate(500%) hue-rotate(200deg);
+}
+
+.navbar-toggler-icon {
+  filter: invert(1); 
+}
