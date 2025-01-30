@@ -4,10 +4,14 @@ body {
   font-family: "Poppins" ,sans-serif;
   background-color: #fffbe3;
 }
-
-a:link {
+.mt-800{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+a:visited {
   text-decoration: none;
   background-color: transparent;
+  color:black
 }
 
 .text-nav {
@@ -16,9 +20,15 @@ a:link {
 }
 
 .navbar {
-  background-color: #fff5cb;
+  background-color: #BEE6FF;
+}
+.navbar-nav{
+  color:#000000
 }
 
+.navbar-brand {
+  color: #000000;
+}
 .box {
   display: flex;
   align-items: center;
