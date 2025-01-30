@@ -24,3 +24,15 @@ a:link {
   align-items: center;
   justify-content: center;
 }
+
+.justify-center {
+  justify-content: center;
+}
+
+.text-center {
+  text-content: center;
+}
+
+.gap-y {
+  row-gap: 32px;
+}
