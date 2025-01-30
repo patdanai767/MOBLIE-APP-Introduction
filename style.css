@@ -1,9 +1,12 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Sans-serif;
-  background-color: #fffbe3;
+*{
+  margin:0;
+  padding:0;
 }
+
+.background{
+  background-color: #FFFBE3;
+}
+
 .mt-800{
   margin-top: 100px;
   margin-bottom: 100px;
@@ -34,16 +37,40 @@ a:visited {
 .navbar-brand {
   color: #000000;
 }
+
 .box {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: transparent;
+}
+
+.box .card {
+  height: 100%;
+  border: none;
+  background: none;
 }
 
 .card-text {
-  font-size: 24px;
-  color: #006FB3;
+  text-align: center;
+  font-family: Sans-serif;
+  font-size: 18px;
+  color: black;
+  font-weight:600;
 }
+
+.card img {
+  border: 2px solid #FF7AC1;
+  border-radius: 12px 12px 0 0;
+  border-bottom: none;
+}
+
+.card-body {
+  background-color: #FFBDE0;
+  border: 2px solid #FF7AC1;
+  border-radius: 0 0 12px 12px;
+}
+
 .justify-center {
   justify-content: center;
 }
