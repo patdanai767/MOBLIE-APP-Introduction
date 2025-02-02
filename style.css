@@ -102,10 +102,16 @@ a:visited {
 
 .img1{
   border-radius: 30px;
-  width: auto;
+  width: 400px;
   height: 400px;
-  
+  /* object-fit: cover; */
 }
+
+.img-container {
+  width: 400px;
+  aspect-ratio: 1/1;
+}
+
 .text-item{
   margin-top:2rem;
 }
