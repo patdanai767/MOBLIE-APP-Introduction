@@ -1,1 +1,8 @@
-# MOBLIE-APP-Introduction
+# MOBLIE-APP-Introduction-Sec24 Group2
+
+<p align='left'>⚡นายพีรณัฐ จงรักดี 66010583</p>
+<p align='left'>⚡นายภวดล เนื้อสะอาด 66010608</p>
+<p align='left'>⚡นางสาววณิชญา เรืองรักเรียน 66010725</p>
+<p align='left'>⚡นายอิทธิกร แป้นบางนา 66010935</p>
+<p align='left'>⚡นายเตชะไพบูลย์ สร้อยสระคู 66011368</p>
+<p align='left'>⚡นายภัทรดนัย จำรัส 66011448</p>
